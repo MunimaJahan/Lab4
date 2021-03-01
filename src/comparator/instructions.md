@@ -14,4 +14,3 @@ If two Employee's **salary** are the same then the S**tudents** should be ordere
 
 You can make use of the natural ordering of the **String** type used for the name to get alphabetical ordering
 
-All **enums** also have a natural ordering which is the the order of the constants names when the **enum** is declared
